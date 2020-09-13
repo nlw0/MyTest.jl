@@ -1,0 +1,4 @@
+name = "MyTest"
+uuid = "bca66a10-ed8b-4667-8ece-8461ea7d50ec"
+authors = ["Nicolau Leal Werneck <nwerneck@gmail.com>"]
+version = "0.1.0"
