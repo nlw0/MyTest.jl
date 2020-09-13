@@ -2,3 +2,9 @@ name = "MyTest"
 uuid = "bca66a10-ed8b-4667-8ece-8461ea7d50ec"
 authors = ["Nicolau Leal Werneck <nwerneck@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LeastSquaresOptim = "0fc2ff8b-aaa3-5acd-a817-1944a5e08891"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
